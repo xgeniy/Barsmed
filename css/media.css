@@ -1,0 +1,10 @@
+body{
+  color: red;
+}
+.slid img{
+  padding-top: 150px; 
+	position: relative;
+	display: block;
+ margin: 0 auto;
+	width: 90%;
+}
